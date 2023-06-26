@@ -91,6 +91,3 @@ class Af_Lwn extends Plugin {
     return 2;
   }
 }
-
-?>
-
